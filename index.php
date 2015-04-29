@@ -74,7 +74,7 @@
 						<li><a href="#services">Services</a></li>
                         <li><a href="#portfolio">Works</a></li>
                         <li><a href="#skills">Skills</a></li>
-						<li><a href="#testimonials">Testimonials</a></li>
+						<li><a href="#testimonials">Clients</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -99,7 +99,8 @@
 						<h2 class="pfblock-title">This is what I do</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around.
+							AkDesigns support Web Design, Branding, and other forms of advertising in the world of Information. By providing the
+								Service what the client need. 
 						</div>
 					</div>
 
@@ -118,7 +119,7 @@
 						<div class="iconbox-text">
 							<h3 class="iconbox-title">Web Design</h3>
 							<div class="iconbox-desc">
-								Good things come to those who wait, but only the things left by those who hustle
+								Catering Web Designs at its best. Creating Web Designs for modern and enterprise industry.
 							</div>
 						</div>
 					</div>
@@ -134,7 +135,8 @@
 						<div class="iconbox-text">
 							<h3 class="iconbox-title">Web Programming</h3>
 							<div class="iconbox-desc">
-								Good things come to those who wait, but only the things left by those who hustle
+								Fulfilling the emptiness of standard Web Programming. Awesome Front-end Design Programming for
+								recreation of beautiful diversion in next generation front-end designs.
 							</div>
 						</div>
 					</div>
@@ -150,7 +152,7 @@
 						<div class="iconbox-text">
 							<h3 class="iconbox-title">Branding</h3>
 							<div class="iconbox-desc">
-								Good things come to those who wait, but only the things left by those who hustle
+								Sealed by own will, Branding produce easy, understandable, stand-alone logos for classy industry.
 							</div>
 						</div>
 					</div>
@@ -166,7 +168,7 @@
 						<div class="iconbox-text">
 							<h3 class="iconbox-title">Consultation</h3>
 							<div class="iconbox-desc">
-								Good things come to those who wait, but only the things left by those who hustle
+								Customer Service located at the heart of the business, deliver satisfactory solution and recommendation.
 							</div>
 						</div>
 					</div>
@@ -191,7 +193,7 @@
 						<h2 class="pfblock-title">My works</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around.
+							AkDesigns Fine Works
 						</div>
 					</div>
 
@@ -308,10 +310,11 @@
                         <div class="col-sm-6 col-sm-offset-3">
 
                             <div class="pfblock-header wow fadeInUp">
-                                <h2 class="pfblock-title">My Skills</h2>
+                                <h2 class="pfblock-title">AkDesigns</h2>
                                 <div class="pfblock-line"></div>
                                 <div class="pfblock-subtitle">
-                                    No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around.
+                                    Creating designs, motivating customer, enhance industry improvement. Logical process in marketing. Spreading
+									the word of Interaction Design at its best.
                                 </div>
                             </div>
 
@@ -390,7 +393,8 @@
 						<h2 class="pfblock-title">What my clients say</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around.
+							There is no way out of supporting you in this path, you have the heart, the will and the eagerness to
+							pursue your happiness.
 						</div>
 					</div>
 
@@ -439,7 +443,7 @@
 						<h2 class="pfblock-title">Drop me a line</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around.
+							Just in case, you can share your ideas and thoughts regarding my portfolio. Feel free to share. Thanks.
 						</div>
 					</div>
 
@@ -489,18 +493,15 @@
 				<div class="col-sm-12">
 
 					<ul class="social-links">
-						<li><a href="index.html#" class="wow fadeInUp"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-google-plus"></i></a></li>
-						<li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".4s"><i class="fa fa-pinterest"></i></a></li>
-						<li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".5s"><i class="fa fa-envelope"></i></a></li>
+						<li><a href="https://www.facebook.com/krisco1693" class="wow fadeInUp"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://twitter.com/kmanore16" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://plus.google.com/u/0/+kristofferanore16" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="https://www.pinterest.com/krisco1693" class="wow fadeInUp" data-wow-delay=".4s"><i class="fa fa-pinterest"></i></a></li>
+						<li><a href="https://mail.google.com/mail" class="wow fadeInUp" data-wow-delay=".5s"><i class="fa fa-envelope"></i></a></li>
 					</ul>
 
-					<p class="heart">
-                        Made with <span class="fa fa-heart fa-2x animated pulse"></span> in Nottingham
-                    </p>
-                    <p class="copyright">
-                        © 2015 John Doe | Images: <a href="https://unsplash.com/">Unsplash</a> & <a href="http://zoomwalls.com/">Zoomwalls</a>
+					<p class="copyright">
+                        © 2015 Toeffer - AkDesigns
 					</p>
 
 				</div>
