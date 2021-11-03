@@ -1,2 +1,0 @@
-# AkDesignsPortfolio
-My own portfolios
