@@ -6,7 +6,8 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>FirstCave-Akdesignstudio</title>
+	<title>AKDesignStudio</title>
+	<link rel="icon" type="image/ico" href="assets/images/ak_icon.ico" />
 
 	<!-- CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -33,9 +34,9 @@
 	<section id="home" class="pfblock-image screen-height">
         <div class="home-overlay"></div>
 		<div class="intro">
-			<div class="start">Hello, my name is Toeffer and I am</div>
-			<h1>Full Stack Web Designer</h1>
-			<div class="start">creating modern and responsive Web Application</div>
+			<div class="start">Hello, my name is Zirk Toeffer and I am</div>
+			<h1>Software Quality Assurance / Product Designer</h1>
+			<div class="start">Ensuring Quality and Responsive User Experience</div>
 		</div>
 
         <a href="#services">
@@ -74,7 +75,6 @@
 						<li><a href="#services">Services</a></li>
                         <li><a href="#portfolio">Works</a></li>
                         <li><a href="#skills">Skills</a></li>
-						<li><a href="#testimonials">Clients</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -99,8 +99,7 @@
 						<h2 class="pfblock-title">This is what I do</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							AkDesigns support Web Design, Branding, and other forms of advertising in the world of Information. By providing the
-								Service what the client need. 
+							AkDesigns support Software Quality Assurance, Product Design, Branding, and other forms of advertising in the world of Information. By providing the Service what the client need. 
 						</div>
 					</div>
 
@@ -117,9 +116,9 @@
 							<span class="icon-magic-wand"></span>
 						</div>
 						<div class="iconbox-text">
-							<h3 class="iconbox-title">Web Design</h3>
+							<h3 class="iconbox-title">Product Design</h3>
 							<div class="iconbox-desc">
-								Catering Web Designs at its best. Creating Web Designs for modern and enterprise industry.
+								Catering Product Designs at its best. Creating Product Designs for modern and enterprise industry. 
 							</div>
 						</div>
 					</div>
@@ -133,10 +132,9 @@
 							<span class="icon-puzzle"></span>
 						</div>
 						<div class="iconbox-text">
-							<h3 class="iconbox-title">Web Programming</h3>
+							<h3 class="iconbox-title">Software Quality Assurance</h3>
 							<div class="iconbox-desc">
-								Fulfilling the emptiness of standard Web Programming. Awesome Front-end Design Programming for
-								recreation of beautiful diversion in next generation front-end designs.
+								Fulfilling the emptiness of standard Software Quality Assurance. Awesome Front-end Design for recreation of beautiful diversion in next generation front-end users. 
 							</div>
 						</div>
 					</div>
@@ -152,7 +150,7 @@
 						<div class="iconbox-text">
 							<h3 class="iconbox-title">Branding</h3>
 							<div class="iconbox-desc">
-								Sealed by own will, Branding produce easy, understandable, stand-alone logos for classy industry.
+								Sealed by own will, Branding produce easy, understandable, stand-alone logos for classy industry. 
 							</div>
 						</div>
 					</div>
@@ -168,7 +166,7 @@
 						<div class="iconbox-text">
 							<h3 class="iconbox-title">Consultation</h3>
 							<div class="iconbox-desc">
-								Customer Service located at the heart of the business, deliver satisfactory solution and recommendation.
+								Customer Service located at the heart of the industry, deliver satisfactory solution and recommendation. 
 							</div>
 						</div>
 					</div>
@@ -193,7 +191,7 @@
 						<h2 class="pfblock-title">My works</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							AkDesigns Fine Works
+							AkDesigns Works
 						</div>
 					</div>
 
@@ -210,8 +208,8 @@
                         <figure class="effect-bubba">
                             <img src="assets/images/item-1.jpg" alt="img01"/>
                             <figcaption>
-                                <h2>Crazy <span>Shark</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <h2>Nature Camp <span>Branding</span></h2>
+                                <p>Relive the moment</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -224,8 +222,8 @@
                         <figure class="effect-bubba">
                             <img src="assets/images/item-2.jpg" alt="img01"/>
                             <figcaption>
-                                <h2>Funny <span>Tortoise</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <h2>Vector <span>Art</span></h2>
+                                <p>Toeffer Vector Art</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -238,8 +236,8 @@
                         <figure class="effect-bubba">
                             <img src="assets/images/item-3.jpg" alt="img01"/>
                             <figcaption>
-                                <h2>The <span>Hat</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <h2>Surfside <span>Product Design</span></h2>
+                                <p>Malita surfside design</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -252,8 +250,8 @@
                         <figure class="effect-bubba">
                             <img src="assets/images/item-4.jpg" alt="img01"/>
                             <figcaption>
-                                <h2>Bang <span>Bang</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <h2>Be <span>Where</span></h2>
+                                <p>Product design for BeWhere application</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -266,8 +264,8 @@
                         <figure class="effect-bubba">
                             <img src="assets/images/item-5.jpg" alt="img01"/>
                             <figcaption>
-                                <h2>Crypton <span>Dude</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <h2>rSchooltoday <span>rWork Orders</span></h2>
+                                <p>Software Quality Assurance Specialist</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -280,8 +278,8 @@
                         <figure class="effect-bubba">
                             <img src="assets/images/item-6.jpg" alt="img01"/>
                             <figcaption>
-                                <h2>Don't <span>Poke</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <h2>PieGanizer<span>Product Design</span></h2>
+                                <p>Organize your Calendar through Mobile Application</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -323,26 +321,26 @@
                     </div><!-- .row -->
 					
 					<div class="col-sm-6 col-md-3 text-center">
-						<span data-percent="80" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
-                            <span class="percent">80</span>
-                        </span>
-						<h3 class="text-center">Programming</h3>
-					</div>
-					<div class="col-sm-6 col-md-3 text-center">
-						<span data-percent="90" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
-                            <span class="percent">90</span>
-                        </span>
-						<h3 class="text-center">Design</h3>
-					</div>
-					<div class="col-sm-6 col-md-3 text-center">
 						<span data-percent="85" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
                             <span class="percent">85</span>
                         </span>
 						<h3 class="text-center">Marketing</h3>
 					</div>
 					<div class="col-sm-6 col-md-3 text-center">
-						<span data-percent="95" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
-                            <span class="percent">95</span>
+						<span data-percent="90" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">90</span>
+                        </span>
+						<h3 class="text-center">Quality Assurance</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="90" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">90</span>
+                        </span>
+						<h3 class="text-center">Product Design</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="90" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">90</span>
                         </span>
 						<h3 class="text-center">UI / UX</h3>
 					</div>
@@ -363,14 +361,14 @@
 			<div class="row">
 
 				<div class="col-md-12 col-lg-12">
-					<h2 class="wow slideInRight" data-wow-delay=".1s">ARE YOU READY TO START?</h2>
+					<h2 class="wow slideInRight" data-wow-delay=".1s">READY TO LEAP?</h2>
 					<div class="calltoaction-decription wow slideInRight" data-wow-delay=".2s">
 						I'm available for freelance projects.
 					</div>
 				</div>
 
 				<div class="col-md-12 col-lg-12 calltoaction-btn wow slideInRight" data-wow-delay=".3s">
-					<a href="#contact" class="btn btn-lg">Hire Me</a>
+					<a href="#contact" class="btn btn-lg">Start right now!</a>
 				</div>
 
 			</div><!-- .row -->
@@ -378,59 +376,6 @@
 	</section>
 
 	<!-- CallToAction end -->
-
-	<!-- Testimonials start -->
-
-	<section id="testimonials" class="pfblock pfblock-gray">
-
-		<div class="container">
-            
-            <div class="row">
-
-				<div class="col-sm-6 col-sm-offset-3">
-
-					<div class="pfblock-header wow fadeInUp">
-						<h2 class="pfblock-title">What my clients say</h2>
-						<div class="pfblock-line"></div>
-						<div class="pfblock-subtitle">
-							There is no way out of supporting you in this path, you have the heart, the will and the eagerness to
-							pursue your happiness.
-						</div>
-					</div>
-
-				</div>
-
-			</div><!-- .row -->
-
-            <div class="row">
-
-			<div id="cbp-qtrotator" class="cbp-qtrotator">
-                <div class="cbp-qtcontent">
-                    <img src="assets/images/client-1.jpg" alt="client-1" />
-                    <blockquote>
-                      <p>Work with John was a pleasure. He understood exactly what I wanted and created an awesome site for my company.</p>
-                      <footer>Pino Caruso</footer>
-                    </blockquote>
-                </div>
-                <div class="cbp-qtcontent">
-                    <img src="assets/images/client-2.jpg" alt="client-2" />
-                    <blockquote>
-                      <p>I'm really happy with the results. Get 100% satisfaction is difficult but Alex got it without problems.</p>
-                      <footer>Jane Doe</footer>
-                    </blockquote>
-                </div>
-
-            </div>		
-
-            </div><!-- .row -->
-
-					
-		</div><!-- .row -->
-	</section>
-
-	<!-- Testimonial end -->
-
-
 	<!-- Contact start -->
 
 	<section id="contact" class="pfblock">
@@ -443,7 +388,7 @@
 						<h2 class="pfblock-title">Drop me a line</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							Just in case, you can share your ideas and thoughts regarding my portfolio. Feel free to share. Thanks.
+							Just in case, you can share your ideas and thoughts regarding my works. Feel free to share. Thanks. 
 						</div>
 					</div>
 
@@ -497,7 +442,7 @@
 						<li><a href="https://twitter.com/kmanore16" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-twitter"></i></a></li>
 						<li><a href="https://plus.google.com/u/0/+kristofferanore16" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-google-plus"></i></a></li>
 						<li><a href="https://www.pinterest.com/krisco1693" class="wow fadeInUp" data-wow-delay=".4s"><i class="fa fa-pinterest"></i></a></li>
-						<li><a href="https://mail.google.com/mail" class="wow fadeInUp" data-wow-delay=".5s"><i class="fa fa-envelope"></i></a></li>
+						<li><a href="mailto:kristofferkrisanore@gmail.com" class="wow fadeInUp" data-wow-delay=".5s"><i class="fa fa-envelope"></i></a></li>
 					</ul>
 
 					<p class="copyright">
